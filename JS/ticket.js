@@ -1,0 +1,22 @@
+function select(){
+    // setBackgroundColorById('A1');
+    // setBackgroundColorById('A2');
+    // setBackgroundColorById('A3');
+//     setBackgroundColorById('A4');
+//     setBackgroundColorById('B1');
+//     setBackgroundColorById('B2');
+//     setBackgroundColorById('B3');
+//     setBackgroundColorById('B4');
+//     setBackgroundColorById('C1');
+//     setBackgroundColorById('C2');
+//     setBackgroundColorById('C3');
+//     setBackgroundColorById('C4');
+//     setBackgroundColorById('D1');
+//     setBackgroundColorById('D2');
+//     setBackgroundColorById('D3');
+//     setBackgroundColorById('D4');
+//     setBackgroundColorById('E1');
+//     setBackgroundColorById('E2');
+//     setBackgroundColorById('E3');
+//     setBackgroundColorById('E4');
+ }
