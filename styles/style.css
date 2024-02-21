@@ -7,3 +7,11 @@
 .font-inter {
     font-family: "Inter", sans-serif;
 }
+
+.selected-seat{
+    display: flex;
+    /* flex-direction: col; */
+    justify-content: space-between;
+    /* gap: 60px; */
+
+}
